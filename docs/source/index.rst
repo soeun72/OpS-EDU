@@ -15,6 +15,6 @@ Welcome to Zoomrunfax's documentation!
 Indices and tables
 ==================
 
-* :ref: `About the Project`
-* :ref: `Getting Started: Installation`
-* :ref: `How to use`
+* :ref:`About the Project`
+* :ref:`Getting Started: Installation`
+* :ref:`How to use`

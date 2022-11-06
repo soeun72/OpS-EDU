@@ -15,6 +15,6 @@ Welcome to Zoomrunfax's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`About the Project`
+* :ref:`Getting Started: Installation`
+* :ref:`How to use`

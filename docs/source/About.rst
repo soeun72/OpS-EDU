@@ -15,9 +15,9 @@ Word or phrase searching
 
 Target Development Language:
 =====================
-○ HTML
-○ CSS
-○ Javascript
+- HTML
+- CSS
+- Javascript
 
 Mission Statement
 =====================

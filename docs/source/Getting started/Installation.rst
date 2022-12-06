@@ -1,5 +1,6 @@
 Installation
 ===============
+
 ## Supported Versions
 
 | Version | Supported          |

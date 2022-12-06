@@ -25,7 +25,7 @@ Zoomrunfax is an open source project. Zoomrunfax is an educational website for o
 
 Contributor
 =====================
-20011805 김소정
-19013226 김현진
-20011812 이혜지
-20011817 김소은
+  20011805 김소정
+  19013226 김현진
+  20011812 이혜지
+  20011817 김소은

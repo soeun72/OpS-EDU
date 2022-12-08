@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Zoomrunfax'
+project = 'OpS-EDU'
 copyright = '2022, Group07'
 author = 'Group07'
 release = '0.0.1'

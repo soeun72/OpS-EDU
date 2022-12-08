@@ -1,5 +1,6 @@
 pull_request_template
 -----------------
+The commit message follows our guidelines: 
 
 ## summary
 -내용 입력

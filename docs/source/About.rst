@@ -1,6 +1,6 @@
 About the Project
 =====================
-Zoomrunfax is an open source project. Zoomrunfax is an educational website for open source learning. It provides simple theories and quizzes for students who are new to open source to understand open source easily. It also provides search engines such as Word or Phrase searching and Fuzzy matching to help users find what they need faster. Our main goal is to become interested in and familiar with open source so that they can finally contribute to open source utilization. Come join us!
+OpS-EDU is an open source project. OpS-EDU is an educational website for open source learning. It provides simple theories and quizzes for students who are new to open source to understand open source easily. It also provides search engines such as Word or Phrase searching and Fuzzy matching to help users find what they need faster. Our main goal is to become interested in and familiar with open source so that they can finally contribute to open source utilization. Come join us!
 
 .. image:: https://user-images.githubusercontent.com/81403373/205896147-37d876ca-24ee-4185-8984-0188ad7c361c.png
     :alt: main page 
@@ -25,7 +25,7 @@ Target Development Language:
 
 Mission Statement
 =====================
-Zoomrunfax is an open source project. Zoomrunfax is an educational website for open source learning. It provides simple theories and quizzes for students who are new to open source to understand open source easily. It also provides search engines such as Word or Phrase searching and Fuzzy matching to help users find what they need faster. Our main goal is to become interested in and familiar with open source so that they can finally contribute to open source utilization. Come join us!
+OpS-EDU is an open source project. OpS-EDU is an educational website for open source learning. It provides simple theories and quizzes for students who are new to open source to understand open source easily. It also provides search engines such as Word or Phrase searching and Fuzzy matching to help users find what they need faster. Our main goal is to become interested in and familiar with open source so that they can finally contribute to open source utilization. Come join us!
 
 Contributor
 =====================

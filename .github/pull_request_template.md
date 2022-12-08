@@ -1,6 +1,3 @@
-pull_request_template
------------------
-
 ## PR Checklist
 Please check if your PR fulfills the following requirements:
 - [ ] The commit message follows our guidelines: https://github.com/soeun72/OpS-EDU/blob/main/.github/contributing.md

@@ -1,4 +1,8 @@
-## Steps for creating good issues or pull requests
+# Contributing to OpS-EDU
+- [ ] code of conduct : https://github.com/soeun72/OpS-EDU/blob/main/.github/CODE_OF_CONDUCT.md
+- [ ] feature request : https://github.com/soeun72/OpS-EDU/blob/main/.github/ISSUE_TEMPLATE/feature_request.md
+- [ ] security : https://github.com/soeun72/OpS-EDU/blob/main/.github/SECURITY.md
+- [ ] pull request template : https://github.com/soeun72/OpS-EDU/blob/main/.github/pull_request_template.md
 
 ## Links to external documentation, mailing lists, or a code of conduct
 -Discord : https://discord.com/invite/A8em33eFVJ  

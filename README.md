@@ -13,6 +13,8 @@
 
 READ THE DOCS
 https://zoomrunfax.readthedocs.io/en/main/
+WEBSITE
+https://soojeoong.github.io/
 
 # Problem Statement
 We want to create a better web page by integrating the Split Landing Page, Faq Collapse, Scroll Animation, quiz-app functions, which are divided in the https://github.com/bradtraversy/50projects50days open source repositories. 

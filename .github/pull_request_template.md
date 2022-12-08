@@ -1,6 +1,6 @@
 pull_request_template
 -----------------
-The commit message follows our guidelines: 
+The commit message follows our guidelines: https://github.com/soeun72/OpS-EDU/blob/main/.github/contributing.md
 
 ## summary
 -내용 입력

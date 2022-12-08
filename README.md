@@ -21,7 +21,6 @@ It will also add a fuzzy matching function to the basic search function of the C
 # Features List
 Searches plain text, HTML, and XML  
 Quiz  
-(planned)Word or phrase searching
 
 # Target Development Language:
 - HTML
